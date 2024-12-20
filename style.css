@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee+Spice&family=Poppins:ital@1&display=swap");
+* {
+  align-items: center;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container {
+  justify-items: center;
+  background-color: #374f44;
+  width: 740px;
+  height: 740px;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 150px;
+  border-radius: 8%;
+}
+.profilephoto {
+  background-position-x: center;
+  background-position-y: center;
+}
+*.img {
+  width: 417px;
+  height: 391px;
+  border-radius: 50%;
+  margin-top: -139px;
+}
+.socialmedia {
+  padding-top: 0px;
+}
+h1 {
+  color: aliceblue;
+  font-size: 4rem;
+}
+p {
+  color: aliceblue;
+  font-size: 3rem;
+  display: block;
+}
+button {
+  margin-top: 12px;
+  border-radius: 75px;
+  width: 389px;
+  height: 91px;
+  font-size: 2rem;
+  color: aliceblue;
+  background-color: #4a1819;
+}
